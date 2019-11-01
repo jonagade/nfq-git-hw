@@ -8,6 +8,10 @@ class Vegetable {
     var $fdhdhfds;
     var $fshgsdfhgdfh;
     var $fdshgdfgh;
+    var $sdfhsdghdfsgh;
+    var $fdsgsdfgsdgs;
+    var $dsgdfdddffssz;
+    var $sgdsfgfsgddd;
 
     function __construct($edible, $color="green")
     {
